@@ -14,7 +14,7 @@ const Header = () => {
       <p className="lead">Web Developer</p>
       <div>
         <a
-          href="https://linkedin.com/in/ishi"
+          href="https://www.linkedin.com/in/ishi-rastogi-72a6422b1/"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-2"
@@ -22,7 +22,7 @@ const Header = () => {
           <FaLinkedin size={30} />
         </a>
         <a
-          href="https://github.com/ishi"
+          href="https://github.com/Ishirastogi"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-2"
